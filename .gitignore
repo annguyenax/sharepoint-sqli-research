@@ -8,7 +8,3 @@ desktop.ini
 .idea/
 *.swp
 *.swo
-
-# Build artifacts
-*.pdf
-dist/
